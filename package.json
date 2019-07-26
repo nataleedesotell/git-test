@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/nataleedesotell/git-test#readme",
   "devDependencies": {
-    "lite-server": "^2.5.3"
+    "lite-server": "^6.9.0"
   }
 }

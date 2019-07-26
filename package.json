@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to brush up on Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataleedesotell/git-test.git"
+  },
+  "author": "Natalee Desotell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataleedesotell/git-test/issues"
+  },
+  "homepage": "https://github.com/nataleedesotell/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
